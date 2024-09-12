@@ -1,1 +1,1 @@
-# Chapter 2. Introduction to Python
+# Chapter 1. Introduction to Python
