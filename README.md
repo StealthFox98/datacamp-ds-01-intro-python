@@ -1,1 +1,1 @@
-# DataCamp's Data Science Track: 01 Introduction to Python
+# Chapter 2. Introduction to Python
